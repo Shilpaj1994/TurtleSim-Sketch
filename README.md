@@ -18,7 +18,7 @@
 
 ### Using an image
 
-​                                                                     [![](./docs/video.gif)](https://youtu.be/nKCuhRvWfk4)
+​                                                                     [![](./docs/video.gif)](https://youtu.be/bBs16HXfasw)
 
 ### Using webcam 
 
