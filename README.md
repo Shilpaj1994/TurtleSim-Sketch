@@ -6,7 +6,7 @@
 
 - In this project, the image on the left is taken as input and the image on the right is obtained as output by using turtlesim
 
-![Output](./sketch/docs/Output.png)
+![Output](./docs/Output.png)
 
 
 
@@ -148,9 +148,9 @@ To run the project on your local system, follow the procedure:
 
 - This command will open turtlesim and GUI for this project
 
-  ![](./sketch/docs/test.png)
+  ![](./docs/test.png)
 
-  ![](./sketch/docs/dynamic reconfigure.png)
+  ![](./docs/dynamic reconfigure.png)
 
 
 
@@ -162,7 +162,7 @@ To run the project on your local system, follow the procedure:
 
 - This  will open up a window with edges in the selected frame
 
-  ![](./sketch/docs/edges.png)
+  ![](./docs/edges.png)
 
   
 
@@ -170,11 +170,11 @@ To run the project on your local system, follow the procedure:
 
 - Click on the checkbox in front of `Start` to spawn an army of turtles which will sketch these contours for you
 
-  ![](./sketch/docs/turtles.png)
+  ![](./docs/turtles.png)
 
 - After the sketch is completed, the turtles will disapper
 
-  ![](./sketch/docs/done.png)
+  ![](./docs/done.png)
 
 
 
