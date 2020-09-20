@@ -1,0 +1,12 @@
+<launch>
+
+	<!-- Image Thresholding GUI -->
+	<include  file="$(find image_thresholding)/launch/canny_thresholding.launch" />
+
+	<!-- Open the TurtleSim -->
+	<node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+
+	<!-- Draw Sketch of the selected contours -->
+	<node name="Sketch"  pkg="sketch"     type="sketcher.py"  args="1"  output="screen"></node>
+
+</launch>

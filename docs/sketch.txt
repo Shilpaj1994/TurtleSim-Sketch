@@ -1,0 +1,40 @@
+.
+├── CMakeLists.txt
+├── docs
+│   ├── Contours.png
+│   ├── done.png
+│   ├── dynamic reconfigure.png
+│   ├── edges.png
+│   ├── Output.png
+│   ├── rosgraph.png
+│   ├── test.png
+│   └── turtles.png
+├── include
+│   └── sketch
+├── launch
+│   └── sketcher.launch
+├── msg
+│   ├── groups.msg
+│   ├── point.msg
+│   ├── points.msg
+│   └── segments.msg
+├── package.xml
+├── README.md
+├── scripts
+│   ├── ironman.jpeg
+│   ├── __pycache__
+│   │   └── Turtle.cpython-37.pyc
+│   ├── scripts_projects
+│   │   ├── contours.py
+│   │   ├── image_test.py
+│   │   ├── motion.py
+│   │   └── PID.py
+│   ├── sketcher.py
+│   └── Turtle.py
+├── sketch.txt
+├── src
+├── srv
+│   └── test.srv
+└── TODO.md
+
+10 directories, 27 files
