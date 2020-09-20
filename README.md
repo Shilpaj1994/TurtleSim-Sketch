@@ -11,14 +11,15 @@
 
 
 - The image on the left can be selected using it's path as well as can be directly taken from the camera
-
 - The below videos show the project in action
 
-  <iframe width="1188" height="622" src="https://www.youtube.com/embed/ulUPPNfbd6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+​                                                                     [![](./docs/video.gif)](https://youtu.be/nKCuhRvWfk4)
 
-  <iframe width="1195" height="622" src="https://www.youtube.com/embed/_Yt93x_M1ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1188" height="622" src="https://www.youtube.com/embed/ulUPPNfbd6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  
+<iframe width="1195" height="622" src="https://www.youtube.com/embed/_Yt93x_M1ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
