@@ -11,15 +11,18 @@
 
 
 - The image on the left can be selected using it's path as well as can be directly taken from the camera
+
 - The below videos show the project in action
+
+  > Click on the below animations for full video
+
+### Using an image
 
 ​                                                                     [![](./docs/video.gif)](https://youtu.be/nKCuhRvWfk4)
 
-<iframe width="1188" height="622" src="https://www.youtube.com/embed/ulUPPNfbd6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Using webcam 
 
-<iframe width="1195" height="622" src="https://www.youtube.com/embed/_Yt93x_M1ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+​                                                                     [![](./docs/cam.gif)](https://youtu.be/nKCuhRvWfk4)
 
 
 
