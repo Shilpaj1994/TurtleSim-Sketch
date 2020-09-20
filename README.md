@@ -204,5 +204,5 @@ To run the project on your local system, follow the procedure:
 
 ## Contact
 
-[<img src="./docs/linkedin_logo.png" alt="LinkedIn Logo" style="zoom: 25%;" />](https://www.linkedin.com/in/shilpaj-bhalerao/)[<img src="./docs/github_logo.png" style="zoom: 15%;">](https://github.com/Shilpaj1994)      [<img src="./docs/youtube_logo.png" style="zoom: 35%;">](https://www.youtube.com/channel/UCucf49_Iau18mG5YFFCSpmw?view_as=subscriber)
+[<img src="./docs/linkedin_logo.png" alt="LinkedIn Logo" style="zoom: 25%;" />](https://www.linkedin.com/in/shilpaj-bhalerao/)[<img src="./docs/github_logo.png" style="zoom: 15%;">](https://github.com/Shilpaj1994) [<img src="./docs/youtube_logo.png" style="zoom: 35%;">](https://www.youtube.com/channel/UCucf49_Iau18mG5YFFCSpmw?view_as=subscriber)
 
