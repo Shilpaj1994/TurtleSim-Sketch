@@ -1,0 +1,11 @@
+<launch>
+
+  <node pkg="rqt_reconfigure" name="rqt_reconfigure" type="rqt_reconfigure" output="log"/>
+
+  <node name="CannyThresholding"     pkg="image_thresholding"  type="server.py"        output="screen" />
+  <node name="ImagePath"             pkg="image_thresholding"  type="import_server.py" output="screen" />
+  
+  <!--node name="Updates"               pkg="image_thresholding" type="get_values.py" output="screen"></node-->
+
+  
+</launch>

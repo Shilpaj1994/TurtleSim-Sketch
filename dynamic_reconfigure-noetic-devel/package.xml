@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>dynamic_reconfigure</name>
+  <version>1.7.1</version>
+  <description>
+    The dynamic_reconfigure package provides a means to update parameters
+    at runtime without having to restart the node.
+  </description>
+  <maintainer email="michael@openrobotics.org">Michael Carroll</maintainer>
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/dynamic_reconfigure</url>
+  <url type="bugtracker">https://github.com/ros/dynamic_reconfigure/issues</url>
+  <url type="repository">https://github.com/ros/dynamic_reconfigure</url>
+  <author>Blaise Gassend</author>
+
+  <export>
+    <rosdoc config="rosdoc.yaml" />
+  </export>
+
+  <buildtool_depend version_gte="0.5.87">catkin</buildtool_depend>
+
+  <build_depend>cpp_common</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>roscpp_serialization</build_depend>
+  <build_depend>rostest</build_depend>
+
+  <build_export_depend>libboost-chrono-dev</build_export_depend>
+  <build_export_depend>libboost-thread-dev</build_export_depend>
+
+  <depend>libboost-dev</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>roslib</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>rosservice</exec_depend>
+</package>
