@@ -89,7 +89,7 @@ Following are the concepts used for this project:
   │   ├── ironman.jpeg
   │   ├── sketcher.py
   │   └── Turtle.py
-  └── TODO.md                               # TO DO for nect version
+  └── TODO.md                               # TO DO for next version
   ```
 
 - Image_thresholding directory structure
@@ -103,7 +103,7 @@ Following are the concepts used for this project:
   ├── include
   │   └── dynamic_parameters
   ├── launch                                 # Launch files 
-  │   └── canny_thresholding.launch          # GUI testing
+  │   └── canny_thresholding.launch            # Launch - GUI for Canny edge detection
   ├── nodes                                  # ROS Nodes
   │   ├── get_values.py
   │   ├── import_server.py                   # Import Image import parameters in python node
@@ -128,7 +128,7 @@ Following are the concepts used for this project:
 ## Dependencies
 
 - `dynamic reconfigure` package
-- OpenCV
+- `OpenCV`
 
 
 
@@ -154,7 +154,7 @@ To run the project on your local system, follow the procedure:
 
   ![](./sketch/docs/test.png)
 
-  ![](./sketch/docs/dynamic reconfigure.png)
+  ![](./sketch/docs/dynamic_reconfigure.png)
 
 
 
