@@ -6,7 +6,7 @@
 
 - In this project, the image on the left is taken as input and the image on the right is obtained as output by using turtlesim
 
-![Output](./docs/Output.png)
+![Output](./sketch/docs/Output.png)
 
 
 
@@ -18,11 +18,11 @@
 
 ### Using an image
 
-​                                                                     [![](./docs/video.gif)](https://youtu.be/bBs16HXfasw)
+​                                                                     [![](./sketch/docs/video.gif)](https://youtu.be/bBs16HXfasw)
 
 ### Using webcam 
 
-​                                                                     [![](./docs/cam.gif)](https://youtu.be/nKCuhRvWfk4)
+​                                                                     [![](./sketch/docs/cam.gif)](https://youtu.be/nKCuhRvWfk4)
 
 
 
@@ -152,9 +152,9 @@ To run the project on your local system, follow the procedure:
 
 - This command will open turtlesim and GUI for this project
 
-  ![](./docs/test.png)
+  ![](./sketch/docs/test.png)
 
-  ![](./docs/dynamic reconfigure.png)
+  ![](./sketch/docs/dynamic reconfigure.png)
 
 
 
@@ -166,7 +166,7 @@ To run the project on your local system, follow the procedure:
 
 - This  will open up a window with edges in the selected frame
 
-  ![](./docs/edges.png)
+  ![](./sketch/docs/edges.png)
 
   
 
@@ -174,11 +174,11 @@ To run the project on your local system, follow the procedure:
 
 - Click on the checkbox in front of `Start` to spawn an army of turtles which will sketch these contours for you
 
-  ![](./docs/turtles.png)
+  ![](./sketch/docs/turtles.png)
 
 - After the sketch is completed, the turtles will disappear
 
-  ![](./docs/done.png)
+  ![](./sketch/docs/done.png)
 
 
 
@@ -208,5 +208,5 @@ To run the project on your local system, follow the procedure:
 
 ## Contact
 
-[<img src="./docs/linkedin_logo.png" alt="LinkedIn Logo" style="zoom: 25%;" />](https://www.linkedin.com/in/shilpaj-bhalerao/)[<img src="./docs/github_logo.png" style="zoom: 15%;">](https://github.com/Shilpaj1994) [<img src="./docs/youtube_logo.png" style="zoom: 35%;">](https://www.youtube.com/channel/UCucf49_Iau18mG5YFFCSpmw?view_as=subscriber)
+[<img src="./sketch/docs/linkedin_logo.png" alt="LinkedIn Logo" style="zoom: 25%;" />](https://www.linkedin.com/in/shilpaj-bhalerao/)[<img src="./sketch/docs/github_logo.png" style="zoom: 15%;">](https://github.com/Shilpaj1994) [<img src="./sketch/docs/youtube_logo.png" style="zoom: 35%;">](https://www.youtube.com/channel/UCucf49_Iau18mG5YFFCSpmw?view_as=subscriber)
 
